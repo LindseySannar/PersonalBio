@@ -16,22 +16,20 @@ body {
     color:rgb(127, 0, 0)
 }
 
-.about{
+.about {
   text-align: center;
   font-family:font-family: verdana;
     font-size: 25px;
     font-style: oblique;
     color: white;
 }
-
-.border{
+.border {
   padding: 10px;
   border-style: groove;
   border-width: thick;
   background-color:rgb(217, 217, 159)
 
 }
-
 .around {
 max-width: 85%;
 margin-left: auto;
