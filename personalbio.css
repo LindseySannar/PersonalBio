@@ -35,3 +35,15 @@ max-width: 85%;
 margin-left: auto;
 margin-right: auto;
 }
+nav div{
+  text-align: center;
+  font-family:font-family: verdana;
+    font-size: 25px;
+    font-style: oblique;
+    color: white;
+}
+a {
+  font-size: 30px;
+  text-decoration: none;
+  color: rgb(127, 0, 0)
+}
