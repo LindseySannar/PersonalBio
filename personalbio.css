@@ -2,9 +2,8 @@ body {
   background-attachment: scroll;
   background-size:cover;
   background-image:
-  url("http://data.whicdn.com/images/8284305/original.jpg");
+  url("http://data.whicdn.com/images/8284305/original.jpg");}
 
-}
 .h1 {
   text-decoration: underline;
   margin-left: auto;
@@ -13,44 +12,41 @@ body {
   font-family:font-family: verdana;
     font-size: 25px;
     font-style: oblique;
-    color:rgb(127, 0, 0)
-}
+    color:rgb(127, 0, 0)}
 
 .about {
   text-align: center;
   font-family:font-family: verdana;
     font-size: 25px;
     font-style: oblique;
-    color: white;
-}
+    color: white;}
+
 .border {
   padding: 10px;
   border-style: groove;
   border-width: thick;
-  background-color:rgb(217, 217, 159)
+  background-color:rgb(217, 217, 159)}
 
-}
 .around {
 max-width: 85%;
 margin-left: auto;
-margin-right: auto;
-}
+margin-right: auto;}
+
 nav div {
   text-align: center;
   font-family:font-family: verdana;
     font-size: 25px;
     font-style: oblique;
-    color: white;
-}
+    color: white;}
 a {
   font-size: 30px;
   text-decoration: none;
-  color: rgb(127, 0, 0)
-}
-a:hover{
-  color:rgb(88,53,26);
-}
-.heading{
+  color: rgb(127, 0, 0)}
+
+a:hover {
+  color:rgb(88,53,26);}
+
+.heading {
   text-decoration: underline;
   margin-left: auto;
   margin-right: auto;
@@ -58,17 +54,15 @@ a:hover{
   font-family:font-family: verdana;
     font-size: 30px;
     font-style: oblique;
-    color:rgb(127, 0, 0)
-}
-img{
+    color:rgb(127, 0, 0)}
+
+img {
 display: block;
-margin: auto;
-}
-.item{
+margin: auto;}
+
+.item {
   text-align: center;
   font-family:font-family: verdana;
     font-size: 20px;
     font-style: oblique;
-    color: white;
-
-}
+    color: white;}
